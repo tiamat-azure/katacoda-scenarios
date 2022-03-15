@@ -1,8 +1,8 @@
 {
-  "title": "New Scenario Template",
-  "description": "A simple scenario example.",
-  "difficulty": "Beginner",
-  "time": "3 minutes",
+  "title": "Apache APISIX - Get started",
+  "description": "Install Apache APISIX, configure and test.",
+  "difficulty": "Intermediate",
+  "time": "15 minutes",
   "details": {
     "steps": [
       {
